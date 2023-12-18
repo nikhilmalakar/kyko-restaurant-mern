@@ -1,2 +1,2 @@
-# restaurant
+# Restaurant
 Repo for fiver client serving a restaurant owner in Germany 
